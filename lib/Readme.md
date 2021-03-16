@@ -5,6 +5,6 @@ iex -S mix
 ```
 and then run 
 ```
-main(yourname)
+Identicon.main(yourname)
 ```
 it creates an identicon based on your input
